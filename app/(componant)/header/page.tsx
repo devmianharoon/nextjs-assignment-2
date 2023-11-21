@@ -3,9 +3,9 @@ export default function HEADER(){
     return(
         <section className="Sub-header">
         <nav>
-            <a href="index.html" className="logo">Xplore
+            <Link href="/" className="logo">Xplore
                 <i className="fab fa-staylinked"></i>kill
-            </a>
+            </Link>
             <div className="nav-links" id="navLinks">
                 {/* <!-- reposnive bar open and close --> */}
                 {/* <i className="fa fa-times" onClick={hideMenu}></i> */}
