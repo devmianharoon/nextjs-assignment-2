@@ -1,4 +1,4 @@
-import NAVBAR from "../componant/navbar/page";
+import NAVBAR from "../(componant)/navbar/page";
 import Link from "next/link";
 
 export default function CONTACT() {

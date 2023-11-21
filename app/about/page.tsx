@@ -1,7 +1,7 @@
 import Image from "next/image"
 import about from "../../public/assest/about.png";
-import NAVBAR from "../componant/navbar/page";
-import HEADER from "../componant/header/page";
+import NAVBAR from "../(componant)/navbar/page";
+import HEADER from "../(componant)/header/page";
 import Link from "next/link";
 
 export default function ABOUT() {

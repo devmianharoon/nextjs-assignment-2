@@ -1,7 +1,7 @@
 import Image from "next/image"
 import post from '../../public/assest/post.png'
-import NAVBAR from "../componant/navbar/page"
-import HEADER from "../componant/header/page"
+import NAVBAR from "../(componant)/navbar/page"
+import HEADER from "../(componant)/header/page"
 
 
 export default function BLOG() {

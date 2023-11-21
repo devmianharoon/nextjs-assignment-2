@@ -7,7 +7,7 @@ import playground from '../public/assest/playground.png';
 import food from '../public/assest/food.png';
 // import showMenu from '../public/assest/showMenu.png'
 import user from '../public/assest/user.png';
-import NAVBAR from './componant/navbar/page';
+import NAVBAR from './(componant)/navbar/page';
 import Link from 'next/link'
 
 

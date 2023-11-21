@@ -3,7 +3,7 @@ import Image from "next/image";
 import course1 from "../../public/assest/course1.png"
 import course2 from "../../public/assest/course2.png"
 import course3 from "../../public/assest/course3.png"
-import NAVBAR from "../componant/navbar/page";
+import NAVBAR from "../(componant)/navbar/page";
 export default function COURSE (){
     return (
         <div>
