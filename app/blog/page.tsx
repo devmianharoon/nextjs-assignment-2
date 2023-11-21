@@ -7,8 +7,8 @@ import HEADER from "../(componant)/header/page"
 export default function BLOG() {
     return (
         <div>
-            <HEADER/>
-             <section className="blog-content">
+            <HEADER />
+            <section className="blog-content">
                 <div className="row">
                     <div className="blog-left">
                         <h2>Our Certificate & Online Program</h2>
@@ -71,8 +71,8 @@ export default function BLOG() {
                 </div>
             </section>
             <NAVBAR />
-        
+
         </div>
-           
-            )
+
+    )
 }
