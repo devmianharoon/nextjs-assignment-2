@@ -13,7 +13,7 @@ export default function CONTACT() {
                 {/* <!-- reposnive bar open and close --> */}
                 {/* <i className="fa fa-times" onclick="hideMenu()"></i> */}
                 <ul>
-                    <li><Link href="/index">Home</Link></li>
+                    <li><Link href="/">Home</Link></li>
                     <li><Link href="/course">Course</Link></li>
                     <li><Link href="/blog">Blog</Link></li>
                     <li><Link href="/about">About</Link></li>
